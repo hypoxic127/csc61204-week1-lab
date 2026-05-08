@@ -5,7 +5,7 @@ import Week_3.task3_strategy.PatientAdmissionV2;
 import Week_3.task3_strategy.PediatricRiskStrategy;
 import Week_3.task3_strategy.StandardRiskStrategy;
 
-// Using a custom POJO test class since standard JUnit was missing earlier
+// Using a custom POJO Week_2.Week_2.test class since standard JUnit was missing earlier
 public class PatientAdmissionV2Test {
 
     public static void main(String[] args) {

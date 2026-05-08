@@ -4,10 +4,10 @@ import Week_3.task2_observer.AdmissionObserver;
 import Week_3.task2_observer.Hospital;
 
 // Since JUnit is not currently configured in the project classpath, 
-// here is a simple POJO test that acts as a standalone runner to verify the behavior
+// here is a simple POJO Week_2.Week_2.test that acts as a standalone runner to verify the behavior
 public class HospitalTest {
 
-    // A test-specific observer that tracks if it was called
+    // A Week_2.Week_2.test-specific observer that tracks if it was called
     static class TestObserver implements AdmissionObserver {
         boolean wasCalled = false;
 
