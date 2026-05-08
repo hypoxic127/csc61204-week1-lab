@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task1_solid;
 
 // Class 4: Only logs audit events
 public class AuditLogger {

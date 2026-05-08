@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 // Observer that only notifies if risk score >= 70
 public class UrgentOnlyDoctorNotifier implements AdmissionObserver {

@@ -1,4 +1,7 @@
-package Week_3;
+package Week_3.test;
+
+import Week_3.task2_observer.AdmissionObserver;
+import Week_3.task2_observer.Hospital;
 
 // Since JUnit is not currently configured in the project classpath, 
 // here is a simple POJO test that acts as a standalone runner to verify the behavior

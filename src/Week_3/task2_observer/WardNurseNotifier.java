@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 // Observer 4: Notifies the ward nurse
 public class WardNurseNotifier implements AdmissionObserver {

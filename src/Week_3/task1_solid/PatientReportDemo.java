@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task1_solid;
 
 public class PatientReportDemo {
     public static void main(String[] args) {

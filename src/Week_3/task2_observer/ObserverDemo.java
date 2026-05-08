@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 public class ObserverDemo {
     public static void main(String[] args) {

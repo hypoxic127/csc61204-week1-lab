@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task1_solid;
 
 public class SmsNotifier implements Notifier {
     @Override

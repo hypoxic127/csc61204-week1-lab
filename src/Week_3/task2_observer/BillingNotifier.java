@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 // Observer 2: Notifies the billing department
 public class BillingNotifier implements AdmissionObserver {

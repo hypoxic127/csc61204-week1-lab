@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 // Observer 1: Notifies the doctor
 public class DoctorNotifier implements AdmissionObserver {

@@ -1,4 +1,4 @@
-package Week_3;
+package Week_3.task2_observer;
 
 import java.util.ArrayList;
 import java.util.List;
