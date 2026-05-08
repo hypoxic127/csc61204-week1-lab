@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.task1;
 
 public class PatientRecord {
     public static void main(String[] args) {
@@ -18,4 +18,3 @@ public class PatientRecord {
         System.out.println("Admitted:    " + isAdmitted);
     }
 }
-

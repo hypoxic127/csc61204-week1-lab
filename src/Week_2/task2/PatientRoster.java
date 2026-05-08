@@ -1,4 +1,6 @@
-package Week_2;
+package Week_2.task2;
+
+import Week_2.task1.Patient;
 
 public class PatientRoster {
     public static void main(String[] args) {

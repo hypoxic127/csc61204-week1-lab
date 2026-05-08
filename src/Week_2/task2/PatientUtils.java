@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.task2;
 
 public class PatientUtils {
     // Returns a risk label based on temperature
@@ -25,4 +25,3 @@ public class PatientUtils {
         System.out.println("Is Elderly:      " + isElderly(70));
     }
 }
-

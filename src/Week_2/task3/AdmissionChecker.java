@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.task3;
 
 public class AdmissionChecker {
     public static void main(String[] args) {

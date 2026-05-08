@@ -1,12 +1,12 @@
-package Week_2;
+package Week_2.task1;
 
 public class Patient {
     // Fields — data belonging to each Patient object
-    String name;
-    int age;
-    double temperatureC;
-    String bloodType;
-    boolean isAdmitted;
+    public String name;
+    public int age;
+    public double temperatureC;
+    public String bloodType;
+    public boolean isAdmitted;
 
     // Constructor — called when creating a new Patient
     public Patient(String name, int age, double temperatureC, String bloodType, boolean isAdmitted) {

@@ -1,4 +1,4 @@
-package Week_2;
+package Week_2.test;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
