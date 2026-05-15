@@ -10,7 +10,6 @@ public class Main {
         System.out.println("\n--- Running Patient Week_2.Week_2.test ---");
         Patient.main(args);
 
-        // 调用 PatientRoster 类的测试逻辑
         System.out.println("\n--- Running PatientRoster Week_2.Week_2.test ---");
         PatientRoster.main(args);
 
